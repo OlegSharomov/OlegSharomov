@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Oleg
+<img src="gifs/Hi.gif" height="32"/></h1>
+<h3 align="center">Welcome to my page!</h3>
+<h3 align="center">I am a backend developer in Java, Spring.</h3>
 
-<!--
-**OlegSharomov/OlegSharomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**My tech stack:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="images/java.jpg"></code>
+<code><img height="20" src="images/spring.jpg"></code>
+<code><img height="20" src="images/github.jpg"></code>
+<code><img height="20" src="images/maven.jpg"></code>
+<code><img height="20" src="images/PostgreSQL.jpg"></code>
+<code><img height="20" src="images/H2.jpg"></code>
+<code><img height="20" src="images/docker.jpg"></code>
+<code><img height="20" src="images/jdbc.jpg"></code>
+<code><img height="20" src="images/hibernate.jpg"></code>
+<code><img height="20" src="images/lombok.jpg"></code>
+<code><img height="20" src="images/MapStruct.jpg"></code>
+<code><img height="20" src="images/JUnit.jpg"></code>
+<code><img height="20" src="images/mockito.jpg"></code>
+<code><img height="20" src="images/slf4j.jpg"></code>
+<code><img height="20" src="images/Zalando.jpg"></code>
+<code><img height="20" src="images/swagger.jpg"></code>
+<code><img height="20" src="images/Postman.jpg"></code>
+
+- 📫 How to reach me: Email sharomov.work@yandex.ru / Telegram: @TelegaOlega43
+
+
+  <img align="right" alt="GIF" src="gifs/Duke&Tomcat.gif" width="700" height="209" />
+
+
+- ⚡ Fun fact: Did you know, that Java’s mascot,  “the Duke” was created by Joe Palrang, the same guy who
+  worked on the movie Shrek. He’s become quite a celebrity too – a life-size Duke is present
+  at most JavaOne conferences. Guess who else is in this picture?
