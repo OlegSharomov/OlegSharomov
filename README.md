@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="gifs/Hi.gif" height="32"/></h1>
-<h3 align="center">Welcome to my page!</h3>
-<h3 align="center">I am a backend developer in Java, Spring.</h3>
+<h3 align="center">Welcome to my page! </h3>
+<h3 align="center">I am a backend developer in Java.</h3>
 
 
 **My tech stack:**
@@ -27,7 +27,7 @@
 - 📫 How to reach me: Email sharomov.work@yandex.ru / Telegram: @TelegaOlega43
 
 
-  <img align="right" alt="GIF" src="gifs/Duke&Tomcat.gif" width="700" height="209" />
+  <img align="right" alt="GIF" src="gifs/Duke&Tomcat.gif" width="560" height="167" />
 
 
 - ⚡ Fun fact: Did you know, that Java’s mascot,  “the Duke” was created by Joe Palrang, the same guy who
