@@ -8,17 +8,17 @@
 
 <code><img height="20" src="images/java.jpg"></code>
 <code><img height="20" src="images/spring.jpg"></code>
-<code><img height="20" src="images/github.jpg"></code>
+<code><img height="20" src="images/GitHub.jpg"></code>
 <code><img height="20" src="images/maven.jpg"></code>
 <code><img height="20" src="images/PostgreSQL.jpg"></code>
 <code><img height="20" src="images/H2.jpg"></code>
-<code><img height="20" src="images/docker.jpg"></code>
+<code><img height="20" src="images/Docker.jpg"></code>
 <code><img height="20" src="images/jdbc.jpg"></code>
 <code><img height="20" src="images/hibernate.jpg"></code>
 <code><img height="20" src="images/lombok.jpg"></code>
 <code><img height="20" src="images/MapStruct.jpg"></code>
 <code><img height="20" src="images/JUnit.jpg"></code>
-<code><img height="20" src="images/mockito.jpg"></code>
+<code><img height="20" src="images/Mockito.jpg"></code>
 <code><img height="20" src="images/slf4j.jpg"></code>
 <code><img height="20" src="images/Zalando.jpg"></code>
 <code><img height="20" src="images/swagger.jpg"></code>
