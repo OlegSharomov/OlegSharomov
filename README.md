@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="gifs/Hi.gif" height="32"/></h1>
 <h3 align="center">Welcome to my page! </h3>
-<h3 align="center">I am a backend developer in Java.</h3>
+<h3 align="center">I am a Java Backend Developer.</h3>
 
 
 **My tech stack:**
