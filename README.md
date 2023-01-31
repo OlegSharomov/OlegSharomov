@@ -33,3 +33,13 @@
 - ⚡ Fun fact: Did you know, that Java’s mascot,  “the Duke” was created by Joe Palrang, the same guy who
   worked on the movie Shrek. He’s become quite a celebrity too – a life-size Duke is present
   at most JavaOne conferences. Guess who else is in this picture?
+
+My projects:
+
+- ['explore_with_me'](https://github.com/OlegSharomov/explore_with_me) - Social network for finding and participating in interesting events (backend) 
+
+- ['java-shareit'](https://github.com/OlegSharomov/java-shareit) - Application for sharing different things (backend) 
+
+- ['filmorate'](https://github.com/OlegSharomov/filmorate) - An application that will help you choose a movie based on what movies you and your friends are watching (backend) 
+
+I am currently working on a Telegram bot that will help students prepare for interviews for Java developers.
